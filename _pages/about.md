@@ -17,42 +17,48 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now working on robust and controllable end-to-end speech recognition and multimodal large language models. If you are seeking any form of academic cooperation, please feel free to email me at slzhou.cs@outlook.com. I am a Ph.D. candidate in Software Engineering at Soochow University (苏州大学), where I am advised by [Prof. Zhenghua Li](https://web.suda.edu.cn/zhli13/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest has changed over time: starting from semantic role labeling and syntax-based language understanding, then shifting to context-aware automatic speech recognition, and more recently focusing on multimodal large language models. I have published papers at top international AI conferences such as ACL, AAAI, and COLING, and was honored with the <strong  >Best Long Paper Award</strong> at COLING 2022.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 ***Nexus: An Omni-Perceptive And-Interactive Model for Language, Audio, And Vision*** has been accepted by ACM MM 2025. 
+- *2025.04*: &nbsp;🎉🎉 ***Recording for eyes, not echoing to ears: Contextualized spoken-to-written conversion of ASR transcripts*** has been accepted by AAAI 2025.
+- *2024.08*: &nbsp;🎉🎉 ***CopyNE: Better Contextual ASR by Copying Named Entities*** and ***Chinese Spoken Named Entity Recognition in Real-world Scenarios: Dataset and Approaches*** have been accepted by ACL 2024.
+- *2022.10*: &nbsp;🎉🎉 ***Fast and Accurate End-to-End Span-based Semantic Role Labeling as Word-based Graph Parsing*** has been awarded the <strong  >Best Long Paper Award</strong> at COLING 2022.
 
 # 📝 Publications 
+* **Improving Contextual ASR via Multi-grained Fusion with Large Language Models. arXiv:2507.12252**
+**Shilin Zhou**, Zhenghua Li
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+* **An Omni-Perceptive And-Interactive Model for Language, Audio, And Vision. ACM MM 2025.** 
+Che Liu, Yingji Zhang, Dong Zhang, Weijie Zhang, Chenggong Gong, Haohan Li, Yu Lu, **Shilin Zhou**, Yue Lu, Ziliang Gan, Ziao Wang, Junwei Liao, Haipang Wu, Ji Liu, André Freitas, Qifan Wang, Zenglin Xu, Rongjuncheng Zhang, Yong Dai
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+* **Recording for eyes, not echoing to ears: Contextualized spoken-to-written conversion of ASR transcripts. AAAI 2025.** 
+Jiaqing Liu, Chong Deng, Qinglin Zhang, **Shilin Zhou**, Qian Chen, Hai Yu, Wen Wang
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+* **CopyNE: Better Contextual ASR by Copying Named Entities. ACL 2024.** 
+**Shilin Zhou**, Zhenghua Li, Yu Hong, Min Zhang, Zhefeng Wang, Baoxing Huai
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+* **Chinese Spoken Named Entity Recognition in Real-world Scenarios: Dataset and Approaches. ACL 2024.** 
+**Shilin Zhou**, Zhenghua Li, Chen Gong, Lei Zhang, Yu Hong, Min Zhang
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+* **Fast and Accurate End-to-End Span-based Semantic Role Labeling as Word-based Graph Parsing. COLING 2022 (Best Long Paper Award).** 
+**Shilin Zhou**, Qingrong Xia, Zhenghua Li, Yu Zhang, Yu Hong, Min Zhang
+
+* **Semantic role labeling as dependency parsing: Exploring latent tree structures inside arguments. COLING 2022.** 
+Yu Zhang, Qingrong Xia, **Shilin Zhou**, Yong Jiang, Guohong Fu, Min Zhang
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10*: **Best Long Paper Award at COLING 2022** 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016.09 - 2020.06*: Undergraduate, Soochow University, China.
+- *2020.09 - now*: Ph.D., Soochow University, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.08 - 2025.01*: Intern, Shanghai AI Lab, China.
