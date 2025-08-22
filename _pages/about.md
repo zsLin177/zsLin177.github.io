@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now working on robust and controllable end-to-end speech recognition and multimodal large language models. If you are seeking any form of academic cooperation, please feel free to email me at slzhou.cs@outlook.com. I am a Ph.D. candidate in Software Engineering at Soochow University (苏州大学), where I am advised by [Prof. Zhenghua Li](https://web.suda.edu.cn/zhli13/).
+I am now working on robust and controllable end-to-end speech recognition and multimodal large language models. I am a Ph.D. candidate in Software Engineering at Soochow University (苏州大学), where I am advised by [Prof. Zhenghua Li](https://web.suda.edu.cn/zhli13/).
 
 My research interest has changed over time: starting from semantic role labeling and syntax-based language understanding, then shifting to context-aware automatic speech recognition, and more recently focusing on multimodal large language models. I have published papers at top international AI conferences such as ACL, AAAI, and COLING, and was honored with the <strong  >Best Long Paper Award</strong> at COLING 2022.
 
@@ -29,7 +29,7 @@ My research interest has changed over time: starting from semantic role labeling
 - *2022.10*: &nbsp;🎉🎉 ***Fast and Accurate End-to-End Span-based Semantic Role Labeling as Word-based Graph Parsing*** has been awarded the <strong  >Best Long Paper Award</strong> at COLING 2022.
 
 # 📝 Publications 
-* **Improving Contextual ASR via Multi-grained Fusion with Large Language Models. arXiv:2507.12252**
+* **Improving Contextual ASR via Multi-grained Fusion with Large Language Models. arXiv:2507.12252.**
 **Shilin Zhou**, Zhenghua Li
 
 * **An Omni-Perceptive And-Interactive Model for Language, Audio, And Vision. ACM MM 2025.** 
