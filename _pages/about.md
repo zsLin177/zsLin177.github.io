@@ -23,6 +23,7 @@ My research interest has changed over time: starting from semantic role labeling
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 ***Improving Contextual ASR via Multi-grained Fusion with Large Language Models*** has opened at arXiv:2507.12252.
 - *2025.07*: &nbsp;🎉🎉 ***Nexus: An Omni-Perceptive And-Interactive Model for Language, Audio, And Vision*** has been accepted by ACM MM 2025. 
 - *2025.04*: &nbsp;🎉🎉 ***Recording for eyes, not echoing to ears: Contextualized spoken-to-written conversion of ASR transcripts*** has been accepted by AAAI 2025.
 - *2024.08*: &nbsp;🎉🎉 ***CopyNE: Better Contextual ASR by Copying Named Entities*** and ***Chinese Spoken Named Entity Recognition in Real-world Scenarios: Dataset and Approaches*** have been accepted by ACL 2024.
