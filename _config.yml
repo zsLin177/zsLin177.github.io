@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shilin Zhou (周仕林)"
-description              : "Learning on speech and vision models."
+description              : "Building multimodal models that see, listen, and understand."
 repository               : "zsLin177/zsLin177.github.io"
 google_scholar_stats_use_cdn : true
 
