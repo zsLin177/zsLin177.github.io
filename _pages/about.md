@@ -23,6 +23,7 @@ My research interest has changed over time: starting from semantic role labeling
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 ***Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer*** has been released at [Z-Image](https://github.com/Tongyi-MAI/Z-Image) repo.
 - *2025.09*: &nbsp;🎉🎉 ***Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models*** has been opened at arXiv:2509.21960.
 - *2025.07*: &nbsp;🎉🎉 ***Improving Contextual ASR via Multi-grained Fusion with Large Language Models*** has been opened at arXiv:2507.12252.
 - *2025.07*: &nbsp;🎉🎉 ***Nexus: An Omni-Perceptive And-Interactive Model for Language, Audio, And Vision*** has been accepted by ACM MM 2025. 
@@ -31,6 +32,9 @@ My research interest has changed over time: starting from semantic role labeling
 - *2022.10*: &nbsp;🎉🎉 ***Fast and Accurate End-to-End Span-based Semantic Role Labeling as Word-based Graph Parsing*** has been awarded the <strong  >Best Long Paper Award</strong> at COLING 2022.
 
 # 📝 Publications 
+* **Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer.**
+**Core Contributor**
+
 * **Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models. arXiv:2509.21960.**
 Zhichao Sheng, **Shilin Zhou (co-first author)**, Chen Gong, Zhenghua Li
 
