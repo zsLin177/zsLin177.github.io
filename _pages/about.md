@@ -72,5 +72,5 @@ Yu Zhang, Qingrong Xia, **Shilin Zhou**, Yong Jiang, Guohong Fu, Min Zhang
 
 
 # 💻 Internships
-- *2024.08 - 2025.01*: Intern, Shanghai AI Lab, China.
-- *2025.04 - *: Intern, Z-Image Team at Tongyi Lab, China.
+- 2024.08 - 2025.01: Intern, Shanghai AI Lab, China.
+- 2025.04 - : Intern, Z-Image Team at Tongyi Lab, China.
