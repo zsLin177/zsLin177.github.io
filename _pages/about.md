@@ -19,7 +19,9 @@ redirect_from:
 
 I am now working on robust and controllable end-to-end speech recognition and multimodal large language models. I am a Ph.D. candidate in Software Engineering at Soochow University (苏州大学), where I am advised by [Prof. Zhenghua Li](https://web.suda.edu.cn/zhli13/).
 
-My research interest has changed over time: starting from semantic role labeling and syntax-based language understanding, then shifting to context-aware automatic speech recognition, and more recently focusing on multimodal large language models. I have published papers at top international AI conferences such as ACL, AAAI, and COLING, and was honored with the <strong  >Best Long Paper Award</strong> at COLING 2022.
+My research interest has changed over time: starting from semantic role labeling and syntax-based language understanding, then shifting to context-aware automatic speech recognition, and more recently focusing on multimodal large language models and diffusion models. I have published papers at top international AI conferences such as ACL, AAAI, and COLING, and was honored with the <strong  >Best Long Paper Award</strong> at COLING 2022.
+
+You can reach me from slzhou.cs@outlook.com
 
 
 # 🔥 News
@@ -71,3 +73,4 @@ Yu Zhang, Qingrong Xia, **Shilin Zhou**, Yong Jiang, Guohong Fu, Min Zhang
 
 # 💻 Internships
 - *2024.08 - 2025.01*: Intern, Shanghai AI Lab, China.
+- *2025.04 -: Intern, Z-Image Team at Tongyi Lab, China.
