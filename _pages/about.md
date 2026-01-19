@@ -25,9 +25,9 @@ You can reach me from slzhou.cs@outlook.com
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 ***Improving Contextual ASR via Multi-grained Fusion with Large Language Models*** has been accepted at ICASSP 2026.
 - *2025.11*: &nbsp;🎉🎉 ***Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer*** has been released at [Z-Image](https://github.com/Tongyi-MAI/Z-Image) repo.
 - *2025.09*: &nbsp;🎉🎉 ***Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models*** has been opened at arXiv:2509.21960.
-- *2025.07*: &nbsp;🎉🎉 ***Improving Contextual ASR via Multi-grained Fusion with Large Language Models*** has been opened at arXiv:2507.12252.
 - *2025.07*: &nbsp;🎉🎉 ***Nexus: An Omni-Perceptive And-Interactive Model for Language, Audio, And Vision*** has been accepted by ACM MM 2025. 
 - *2025.04*: &nbsp;🎉🎉 ***Recording for eyes, not echoing to ears: Contextualized spoken-to-written conversion of ASR transcripts*** has been accepted by AAAI 2025.
 - *2024.08*: &nbsp;🎉🎉 ***CopyNE: Better Contextual ASR by Copying Named Entities*** and ***Chinese Spoken Named Entity Recognition in Real-world Scenarios: Dataset and Approaches*** have been accepted by ACL 2024.
@@ -40,7 +40,7 @@ You can reach me from slzhou.cs@outlook.com
 * **Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models. arXiv:2509.21960.**
 Zhichao Sheng, **Shilin Zhou (co-first author)**, Chen Gong, Zhenghua Li
 
-* **Improving Contextual ASR via Multi-grained Fusion with Large Language Models. arXiv:2507.12252.**
+* **Improving Contextual ASR via Multi-grained Fusion with Large Language Models. ICASSP2026. arXiv:2507.12252.**
 **Shilin Zhou**, Zhenghua Li
 
 * **An Omni-Perceptive And-Interactive Model for Language, Audio, And Vision. ACM MM 2025.** 
