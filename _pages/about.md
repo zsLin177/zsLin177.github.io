@@ -25,9 +25,9 @@ You can reach me from slzhou.cs@outlook.com
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 ***Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models*** has been accepted at ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 ***Improving Contextual ASR via Multi-grained Fusion with Large Language Models*** has been accepted at ICASSP 2026.
 - *2025.11*: &nbsp;🎉🎉 ***Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer*** has been released at [Z-Image](https://github.com/Tongyi-MAI/Z-Image) repo.
-- *2025.09*: &nbsp;🎉🎉 ***Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models*** has been opened at arXiv:2509.21960.
 - *2025.07*: &nbsp;🎉🎉 ***Nexus: An Omni-Perceptive And-Interactive Model for Language, Audio, And Vision*** has been accepted by ACM MM 2025. 
 - *2025.04*: &nbsp;🎉🎉 ***Recording for eyes, not echoing to ears: Contextualized spoken-to-written conversion of ASR transcripts*** has been accepted by AAAI 2025.
 - *2024.08*: &nbsp;🎉🎉 ***CopyNE: Better Contextual ASR by Copying Named Entities*** and ***Chinese Spoken Named Entity Recognition in Real-world Scenarios: Dataset and Approaches*** have been accepted by ACL 2024.
@@ -37,7 +37,7 @@ You can reach me from slzhou.cs@outlook.com
 * **Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer.**
 **Core Contributor**
 
-* **Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models. arXiv:2509.21960.**
+* **Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models. ACL 2026. arXiv:2509.21960.**
 Zhichao Sheng, **Shilin Zhou (co-first author)**, Chen Gong, Zhenghua Li
 
 * **Improving Contextual ASR via Multi-grained Fusion with Large Language Models. ICASSP2026. arXiv:2507.12252.**
@@ -74,4 +74,5 @@ Yu Zhang, Qingrong Xia, **Shilin Zhou**, Yong Jiang, Guohong Fu, Min Zhang
 # 💻 Internships
 - 2024.08 - 2025.01: Intern, Shanghai AI Lab, China.
 - 2025.01 - 2025.03: Intern, HiThink Research, China
-- 2025.06 -: Intern, Z-Image Team at Tongyi Lab, China.
+- 2025.06 - 2026.04: Intern, Z-Image Team at Tongyi Lab, China.
+- 2025.05 - : FunAudio Team at Tongyi Lab, China.
