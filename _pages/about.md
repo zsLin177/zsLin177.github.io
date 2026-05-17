@@ -75,4 +75,4 @@ Yu Zhang, Qingrong Xia, **Shilin Zhou**, Yong Jiang, Guohong Fu, Min Zhang
 - 2024.08 - 2025.01: Intern, Shanghai AI Lab, China.
 - 2025.01 - 2025.03: Intern, HiThink Research, China
 - 2025.06 - 2026.04: Intern, Z-Image Team at Tongyi Lab, China.
-- 2025.05 - : FunAudio Team at Tongyi Lab, China.
+- 2026.05 - : FunAudio Team at Tongyi Lab, China.
