@@ -69,7 +69,7 @@ Yu Zhang, Qingrong Xia, **Shilin Zhou**, Yong Jiang, Guohong Fu, Min Zhang
 
 # 📖 Educations
 - *2016.09 - 2020.06*: Undergraduate, Soochow University, China.
-- *2020.09 - now*: Ph.D., Soochow University, China.
+- *2020.09 - 2026.06*: Ph.D., Soochow University, China.
 
 
 # 💻 Internships
