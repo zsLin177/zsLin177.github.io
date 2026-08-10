@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shilin Zhou (周仕林)"
   avatar           : "images/shilin-512x512.png"
-  bio              : "Soochow University"
-  location         : "Suzhou, China"
+  bio              : "Tongyi Lab; Soochow University"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6lcFCYcAAAAJ"
