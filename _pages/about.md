@@ -25,6 +25,7 @@ You can reach me from slzhou.cs@outlook.com
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 ***Qwen-Audio-3.0-Realtime*** has been released! [[Introduction](https://mp.weixin.qq.com/s/mqZEm3auE_1YTKZ6Jxfzag)] [[Try it](https://bailian.console.aliyun.com/cn-beijing?tab=model&spm=a2c4g.11186623.0.0.4ab7695bvInrXr#/model-market/detail/qwen-audio-3.0-realtime-plus?serviceSite=asia-pacific-china&ref=all)]
 - *2026.04*: &nbsp;🎉🎉 ***Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models*** has been accepted at ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 ***Improving Contextual ASR via Multi-grained Fusion with Large Language Models*** has been accepted at ICASSP 2026.
 - *2025.11*: &nbsp;🎉🎉 ***Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer*** has been released at [Z-Image](https://github.com/Tongyi-MAI/Z-Image) repo.
