@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now working on robust and controllable end-to-end speech recognition and multimodal large language models. I am a Ph.D. candidate in Software Engineering at Soochow University (苏州大学), where I am advised by [Prof. Zhenghua Li](https://web.suda.edu.cn/zhli13/).
+I am currently with the Qwen-Audio team at Alibaba's Tongyi Lab, where I work on end-to-end real-time conversational models. I received my Ph.D. in Software Engineering from Soochow University (苏州大学), where I was advised by [Prof. Zhenghua Li](https://web.suda.edu.cn/zhli13/).
 
-My research interest has changed over time: starting from semantic role labeling and syntax-based language understanding, then shifting to context-aware automatic speech recognition, and more recently focusing on multimodal large language models and diffusion models. I have published papers at top international AI conferences such as ACL, AAAI, and COLING, and was honored with the <strong  >Best Long Paper Award</strong> at COLING 2022.
+My research interests have evolved over time: starting from semantic role labeling and syntax-based language understanding, then shifting to context-aware automatic speech recognition and multimodal large language models, and now focusing on streaming audio and video generation. I have published papers at top international AI conferences such as ACL, AAAI, and COLING, and was honored with the <strong>Best Long Paper Award</strong> at COLING 2022.
 
 You can reach me from slzhou.cs@outlook.com
 
